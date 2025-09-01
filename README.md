@@ -9,4 +9,4 @@ APB in verilog"** course on Namaste FPGA,  Learnt all about the Advanced Periphe
 
 
 **Course Link:** [Namaste FPGA - Communicationj Series - Part 2:
-Fundamentals]((https://namaste-fpga.com/courses/preview/52))
+Fundamentals](https://namaste-fpga.com/courses/preview/52)
